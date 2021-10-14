@@ -1,4 +1,14 @@
-## Welcome to V Srinivasan's Website
+# Vedanta for Everyone
+
+## About
+Velayudham Srinivasan is an accomplished...
+
+## Works
+You can find his latest books available for download here:
+- [Vedanta4all](google.com)
+
+
+## Welcome to Velayudham Srinivan's Website
 
 You can use the [editor on GitHub](https://github.com/v-srinivasan/v-srinivasan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
