@@ -1,6 +1,5 @@
-Vedanta for Everyone
-
-# Vedanta
+# Velayudham Srinivasan
+# Vedanta for Everyone
 
 ## About
 Velayudham Srinivasan is an accomplished...
